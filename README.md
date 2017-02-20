@@ -110,4 +110,4 @@ protected void onCreate(Bundle savedInstanceState) {
 
 还有如果你看到这里了，很感谢你，读完我的文章，Android的路上又多了一个可以一起探讨和交流的伙伴。
 
-如要转载请著名重余和[原文的链接](http://www.jianshu.com/p/56605c1427ea)http://www.jianshu.com/p/56605c1427ea，谢谢。
+如要转载请著名重余和[原文的链接](http://www.jianshu.com/p/56605c1427ea)<http://www.jianshu.com/p/56605c1427ea>，谢谢。
