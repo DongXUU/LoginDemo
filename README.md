@@ -1,6 +1,6 @@
 
 # Android  LoginDemo
-Flattened interface, Customize edittext and listens for input   
+Flattened interface, customize edittext and listens for input   
 这是一个扁平化的登录界面，并且可以监听输入框中的内容进行删除
 ![1 登录界面](http://upload-images.jianshu.io/upload_images/4171981-cba75c4ffa83ca23.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
